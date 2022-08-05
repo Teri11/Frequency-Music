@@ -3,7 +3,7 @@
 .container-fluid >h1{
   font-family: 'Lora', serif;
   font-family: 'Oswald', sans-serif;
-  text-align: center;
+  /* text-align: center; */
   color: white;
 }
 .container-fluid{
